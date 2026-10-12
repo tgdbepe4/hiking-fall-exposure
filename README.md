@@ -112,12 +112,17 @@ python3 fall_exposure.py \
 
 | Datei | Zweck |
 |---|---|
-| `styles/absturzrisiko_band.qml` | Absturzrisiko als breites Band unter der Weglinie (2 hellorange, 3 orange, 4 rot). |
+| `styles/absturzrisiko_band.qml` | Absturzrisiko als breites Band unter der Weglinie (2 hellorange, 3 rot, 4 magenta). |
 | `styles/absturzrisiko_skitourenguru_farben.qml` | Absturzrisiko als Linie grün/gelb/orange/rot. |
 | `styles/absturzrisiko_skitourenguru_farben_mit_kante.qml` | Wie oben, plus Markierung `immediate_drop`. |
-| `styles/sac_scale_signalisation_lizmap.qml` | `sac_scale` nach Schweizer Signalisation mit weissem Rand und T-Beschriftung. |
+| `styles/sac_scale_signalisation_lizmap.qml` | OSM `sac_scale` nach Schweizer Signalisation mit weissem Rand und T-Beschriftung. |
+| `styles/swisstlm3d_wanderwege_signalisation.qml` | swissTLM3D-Wanderwege (Feld `wanderwege`): gelb, weiss-rot-weiss, weiss-blau-weiss, mit Wegzeichen auf der Linie. |
 
-Für eine kombinierte Karte liegt der Risiko-Layer mit dem Band **unter** dem `sac_scale`-Layer. Beide müssen aus demselben Wegnetz stammen.
+Für eine kombinierte Karte liegt der Risiko-Layer mit dem Band **unter** dem Weg-Layer. Beide müssen aus demselben Wegnetz stammen.
+
+![Beispiel Brüggler (GL): swissTLM3D-Wanderwege mit Absturzrisiko](docs/beispiel_brueggler.png)
+
+*Beispiel Brüggler (GL), Absturzrisiko berechnet auf den swissTLM3D-Wanderwegen. Hintergrundkarte © swisstopo.*
 
 ## Bekannte Grenzen
 

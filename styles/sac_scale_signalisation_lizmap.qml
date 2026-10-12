@@ -465,7 +465,7 @@
                     <Option name="joinstyle" value="round" type="QString"/>
                     <Option name="line_color" value="255,255,255,255,rgb:1,1,1,1" type="QString"/>
                     <Option name="line_style" value="solid" type="QString"/>
-                    <Option name="line_width" value="1.6" type="QString"/>
+                    <Option name="line_width" value="2.0" type="QString"/>
                     <Option name="line_width_unit" value="MM" type="QString"/>
                     <Option name="offset" value="0" type="QString"/>
                     <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
@@ -550,7 +550,7 @@
                     <Option name="joinstyle" value="round" type="QString"/>
                     <Option name="line_color" value="255,255,255,255,rgb:1,1,1,1" type="QString"/>
                     <Option name="line_style" value="solid" type="QString"/>
-                    <Option name="line_width" value="1.6" type="QString"/>
+                    <Option name="line_width" value="2.0" type="QString"/>
                     <Option name="line_width_unit" value="MM" type="QString"/>
                     <Option name="offset" value="0" type="QString"/>
                     <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
@@ -635,7 +635,7 @@
                     <Option name="joinstyle" value="round" type="QString"/>
                     <Option name="line_color" value="255,255,255,255,rgb:1,1,1,1" type="QString"/>
                     <Option name="line_style" value="solid" type="QString"/>
-                    <Option name="line_width" value="1.6" type="QString"/>
+                    <Option name="line_width" value="2.0" type="QString"/>
                     <Option name="line_width_unit" value="MM" type="QString"/>
                     <Option name="offset" value="0" type="QString"/>
                     <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
@@ -720,7 +720,7 @@
                     <Option name="joinstyle" value="round" type="QString"/>
                     <Option name="line_color" value="255,255,255,255,rgb:1,1,1,1" type="QString"/>
                     <Option name="line_style" value="solid" type="QString"/>
-                    <Option name="line_width" value="1.6" type="QString"/>
+                    <Option name="line_width" value="2.0" type="QString"/>
                     <Option name="line_width_unit" value="MM" type="QString"/>
                     <Option name="offset" value="0" type="QString"/>
                     <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
@@ -805,7 +805,7 @@
                     <Option name="joinstyle" value="round" type="QString"/>
                     <Option name="line_color" value="255,255,255,255,rgb:1,1,1,1" type="QString"/>
                     <Option name="line_style" value="solid" type="QString"/>
-                    <Option name="line_width" value="1.6" type="QString"/>
+                    <Option name="line_width" value="2.0" type="QString"/>
                     <Option name="line_width_unit" value="MM" type="QString"/>
                     <Option name="offset" value="0" type="QString"/>
                     <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
